@@ -1,0 +1,7 @@
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\GrayScalePlugin\bin\Debug\GrayScalePlugin.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\GrayScalePlugin\bin\Debug\GrayScalePlugin.pdb
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\GrayScalePlugin\bin\Debug\ModularImageProcessing.Contracts.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\GrayScalePlugin\bin\Debug\ModularImageProcessing.Contracts.pdb
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\GrayScalePlugin\obj\Debug\GrayScalePlugin.csprojResolveAssemblyReference.cache
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\GrayScalePlugin\obj\Debug\GrayScalePlugin.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\GrayScalePlugin\obj\Debug\GrayScalePlugin.pdb

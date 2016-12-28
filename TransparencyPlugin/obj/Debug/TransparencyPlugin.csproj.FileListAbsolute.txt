@@ -1,0 +1,7 @@
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\TransparencyPlugin\bin\Debug\TransparencyPlugin.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\TransparencyPlugin\bin\Debug\TransparencyPlugin.pdb
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\TransparencyPlugin\bin\Debug\ModularImageProcessing.Contracts.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\TransparencyPlugin\bin\Debug\ModularImageProcessing.Contracts.pdb
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\TransparencyPlugin\obj\Debug\TransparencyPlugin.csprojResolveAssemblyReference.cache
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\TransparencyPlugin\obj\Debug\TransparencyPlugin.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\TransparencyPlugin\obj\Debug\TransparencyPlugin.pdb

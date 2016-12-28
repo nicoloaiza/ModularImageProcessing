@@ -1,0 +1,10 @@
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\bin\Debug\ModularImageProcessing.exe.config
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\bin\Debug\ModularImageProcessing.exe
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\bin\Debug\ModularImageProcessing.pdb
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\bin\Debug\ModularImageProcessing.Contracts.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\bin\Debug\ModularImageProcessing.Contracts.pdb
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\obj\Debug\ModularImageProcessing.csprojResolveAssemblyReference.cache
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\obj\Debug\ModularImageProcessing.MainWindow.resources
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\obj\Debug\ModularImageProcessing.csproj.GenerateResource.Cache
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\obj\Debug\ModularImageProcessing.exe
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing\obj\Debug\ModularImageProcessing.pdb

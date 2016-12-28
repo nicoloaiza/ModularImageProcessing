@@ -1,0 +1,7 @@
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\Negative\bin\Debug\Negative.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\Negative\bin\Debug\Negative.pdb
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\Negative\bin\Debug\ModularImageProcessing.Contracts.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\Negative\bin\Debug\ModularImageProcessing.Contracts.pdb
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\Negative\obj\Debug\Negative.csprojResolveAssemblyReference.cache
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\Negative\obj\Debug\Negative.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\Negative\obj\Debug\Negative.pdb

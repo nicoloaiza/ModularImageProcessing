@@ -1,0 +1,4 @@
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing.Contracts\bin\Debug\ModularImageProcessing.Contracts.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing.Contracts\bin\Debug\ModularImageProcessing.Contracts.pdb
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing.Contracts\obj\Debug\ModularImageProcessing.Contracts.dll
+c:\users\xetxu\documents\visual studio 2015\Projects\ModularImageProcessing\ModularImageProcessing.Contracts\obj\Debug\ModularImageProcessing.Contracts.pdb
